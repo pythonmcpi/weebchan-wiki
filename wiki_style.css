@@ -1,10 +1,3 @@
-# Weebchan Wiki
-
-[Home](index.md)
-[Test](test.md)
-
-
-<style>
 body {
 	background-color: #333;
 	color: #ddd;
@@ -14,12 +7,12 @@ a {
 	color: #0ff;
 }
 
-
+/* Footer text */
 .scontainer {
 	color: #aaa;
 }
 
-
+/* Navigation bar */
 .navbar-default {
 	background-color: #555;
 	border: none;
@@ -39,4 +32,3 @@ a {
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 }
-</style>

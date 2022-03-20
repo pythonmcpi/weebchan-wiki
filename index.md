@@ -1,3 +1,9 @@
-# Weebchan Wiki
+# Welcome to the Official Weebchan Wiki
 
-Wiki still wip...
+A Guide to the discord MMORPG experience, Weebchan!
+
+If you somehow find this page, I (SemiMute) created it as a placeholder for future plans!
+
+## Important Articles
+-------
+- [Placeholder](#!index.md)
