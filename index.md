@@ -1,0 +1,3 @@
+# Weebchan Wiki
+
+Wiki still wip...

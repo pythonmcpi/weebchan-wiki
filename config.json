@@ -1,0 +1,7 @@
+{
+	"useSideMenu": true,
+	"lineBreaks": "gfm",
+	"additionalFooterText": "Custom Footer Text <br>",
+	"anchorCharacter": "&para;",
+	"title": "Weebchan Wiki"
+}
